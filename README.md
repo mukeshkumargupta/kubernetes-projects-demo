@@ -2,7 +2,7 @@
 It is all about project demo related to k8s
 
 # Some important links
-#Deployments
+# Deployments
 https://kubernetes.io/docs/concepts/workloads/controllers/deployment/
 
 # Service
